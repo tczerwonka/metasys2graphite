@@ -1,2 +1,4 @@
 # metasys2graphite
-code to interface legacy Metasys DBF files and import into graphite
+
+This is a simple perl script to import legacy Metasys DBF files into
+graphite.
